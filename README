@@ -1,6 +1,5 @@
 This is a barebones titanium app template written and organized in CoffeeScript
 
 Make your changes in the CoffeeScript directory and then run the following command to generate the js files:
-```
+
 $> coffee -o js/ -cw CoffeeScript/
-```
